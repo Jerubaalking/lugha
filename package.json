@@ -1,0 +1,11 @@
+{
+  "name": "lugha",
+  "version": "1.0.1",
+  "description": "Lugha is a nodejs package that provide easy and efficient way to translate languages.",
+  "main": "lang.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gideon Sainyeye",
+  "license": "ISC"
+}
